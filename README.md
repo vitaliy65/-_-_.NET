@@ -74,3 +74,9 @@ classDiagram
 
 **Статична модель:**
 (Цей патерн часто не відображається в статичних моделях, оскільки це більше про організацію коду, ніж про структуру об'єктів.)
+
+Джерела:
+https://refactoring.guru/
+https://www.tutorialspoint.com/index.htm
+https://refactoring.guru/ru/design-patterns/csharp
+https://www.coursera.org/learn/design-patterns
